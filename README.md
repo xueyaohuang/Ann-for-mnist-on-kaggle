@@ -23,10 +23,6 @@ My approach to solve this problem is as follows.\\
 
 
 
-\end{document}
-
-
-
 
 
 
