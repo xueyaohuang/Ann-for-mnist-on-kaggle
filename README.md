@@ -1,5 +1,4 @@
- \section{Problem 7}
-My approach to solve this problem is as follows.\\
+My approach to solve this problem is as following.
 1. Read data from csv and construct the features X and labels y.\\
 2. Normalize the training features by dividing 255 of each pixel value, to keep the result in the high derivative area of activation function(sigmoid).\\
 3. Use one hot encoding to transform lables y to vectors.\\
